@@ -8,7 +8,4 @@ while index < len(my_list):
     elif a < 0:
         break
     print(a)
-    #elif index == len(my_list):
-        #print(a)
-    #else:
-        #print(a)
+    
